@@ -14,8 +14,8 @@ export const Hero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img
-          src="/lovable-uploads/5c32e484-63ee-4997-8477-2530a6d29f1e.png"
-          alt="Modern office interior"
+          src="/lovable-uploads/9d37dfe8-4c2b-4ddf-af0d-7381036c08db.png"
+          alt="Modern office interior with wood paneling and blinds"
           className="w-full h-full object-cover hero-duotone"
         />
         {/* Dark overlay for text readability */}
@@ -31,7 +31,7 @@ export const Hero = () => {
 
         {/* Main Heading */}
         <h1 className="heading-xl mb-6 max-w-4xl mx-auto">
-          UnifiedHorizon — Business-first legal counsel in India
+          UnifiedHorizon — Not just a consultancy, A legal atelier
         </h1>
 
         {/* Subheading */}
